@@ -23,7 +23,7 @@
 💻 포트폴리오 💻 
 <br>
 <div style="display:flex; flex-direction:row;">
-  <a href="https://www.notion.so/e2909dcab0b74ce09bb8b1ae36e5e041">
+  <a href="https://www.notion.so/e2909dcab0b74ce09bb8b1ae36e5e041?pvs=4">
         <img src="https://img.shields.io/badge/Notion-9999FF?style=for-the-badge&logo=Notion&logoColor=white"> 
     </a>
 </div>
